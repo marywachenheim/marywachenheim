@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marywachenheim
-- 👀 I’m interested in Project Management, Program Management, Agile Scrum, Agile Methodologies
+- 👀 I’m interested in Project Management, Program Management, Scrum and other Agile Methodologies
 - 🌱 I’m currently learning how to use Github!
 - 💞️ I’m looking to collaborate on new ideas, IT Projects, Programs, App Dev, DevOps, DevSecOps
 - 📫 How to reach me 
